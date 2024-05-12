@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbudget_planner=self.webpackChunkbudget_planner||[]).push([[346],{346:(c,a,t)=>{t.r(a),t.d(a,{BudgetPlannerModule:()=>s});var e=t(895),u=t(256);let s=(()=>{class n{static#t=this.\u0275fac=function(l){return new(l||n)};static#n=this.\u0275mod=u.oAB({type:n});static#a=this.\u0275inj=u.cJS({imports:[e.ez]})}return n})()}}]);
